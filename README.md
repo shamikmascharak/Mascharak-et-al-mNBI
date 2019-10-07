@@ -1,2 +1,2 @@
 # Mascharak-et-al-mNBI
-This repository contains Matlab scripts for the manuscript "Detecting Oropharyngeal Carcinoma using Multispectral, Narrow-Band Imaging and Machine Learning"
+This repository contains Matlab scripts for the manuscript "Detecting Oropharyngeal Carcinoma using Multispectral, Narrow-Band Imaging and Machine Learning" by Mascharak et al and "Machine Learning with a Neural Network Improves Detection of Oropharyngeal Carcinoma using Multispectral Narrow-Band Endoscopic Imaging: Results from a Prospective Clinical Study" by Baird and Mascharak et al. 
